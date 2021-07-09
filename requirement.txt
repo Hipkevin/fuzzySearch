@@ -1,0 +1,4 @@
+python-levenshtein
+faiss-cpu
+xlrd==1.1.0
+openpyxl
